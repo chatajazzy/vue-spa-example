@@ -1,0 +1,1 @@
+Blogue - Vue spa example
