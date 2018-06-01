@@ -1,1 +1,0 @@
-Vue spa example
