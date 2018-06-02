@@ -1,13 +1,5 @@
 {
-  "presets": [
-    [
-      "es2015",
-      {
-        "modules": false
-      }
-    ],
-    "stage-2"
-  ],
+  "presets": ["env"],
   "ignore": [
     "node_modules/*"
   ]
