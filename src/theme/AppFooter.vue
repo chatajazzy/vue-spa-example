@@ -12,6 +12,9 @@
 .footer {
   padding: 3rem 1.5rem;
   height: 120px;
-  margin-top: 105px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 </style>

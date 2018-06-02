@@ -26,4 +26,7 @@
   .columns{
     flex-wrap: wrap
   }
+  .section {
+    margin-bottom: 120px;
+  }
 </style>

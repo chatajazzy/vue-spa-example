@@ -1,7 +1,7 @@
 <template>
 <div class="content">
   <div v-if="isAuthenticated">
-    Hello authenticated user!
+    <p>Hello authenticated user!</p>
     <button v-on:click="logout()" class="button is-primary">
       Logout
     </button>
