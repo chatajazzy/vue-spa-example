@@ -8,3 +8,10 @@
     </div>
   </footer>
 </template>
+<style scoped>
+.footer {
+  padding: 3rem 1.5rem;
+  height: 120px;
+  margin-top: 105px;
+}
+</style>
